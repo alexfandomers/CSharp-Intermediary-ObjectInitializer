@@ -1,0 +1,15 @@
+C:\C#\IntermediaryObjectInitializer\bin\Debug\net6.0\IntermediaryObjectInitializer.exe
+C:\C#\IntermediaryObjectInitializer\bin\Debug\net6.0\IntermediaryObjectInitializer.deps.json
+C:\C#\IntermediaryObjectInitializer\bin\Debug\net6.0\IntermediaryObjectInitializer.runtimeconfig.json
+C:\C#\IntermediaryObjectInitializer\bin\Debug\net6.0\IntermediaryObjectInitializer.dll
+C:\C#\IntermediaryObjectInitializer\bin\Debug\net6.0\IntermediaryObjectInitializer.pdb
+C:\C#\IntermediaryObjectInitializer\obj\Debug\net6.0\IntermediaryObjectInitializer.csproj.AssemblyReference.cache
+C:\C#\IntermediaryObjectInitializer\obj\Debug\net6.0\IntermediaryObjectInitializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\IntermediaryObjectInitializer\obj\Debug\net6.0\IntermediaryObjectInitializer.AssemblyInfoInputs.cache
+C:\C#\IntermediaryObjectInitializer\obj\Debug\net6.0\IntermediaryObjectInitializer.AssemblyInfo.cs
+C:\C#\IntermediaryObjectInitializer\obj\Debug\net6.0\IntermediaryObjectInitializer.csproj.CoreCompileInputs.cache
+C:\C#\IntermediaryObjectInitializer\obj\Debug\net6.0\IntermediaryObjectInitializer.dll
+C:\C#\IntermediaryObjectInitializer\obj\Debug\net6.0\refint\IntermediaryObjectInitializer.dll
+C:\C#\IntermediaryObjectInitializer\obj\Debug\net6.0\IntermediaryObjectInitializer.pdb
+C:\C#\IntermediaryObjectInitializer\obj\Debug\net6.0\IntermediaryObjectInitializer.genruntimeconfig.cache
+C:\C#\IntermediaryObjectInitializer\obj\Debug\net6.0\ref\IntermediaryObjectInitializer.dll
